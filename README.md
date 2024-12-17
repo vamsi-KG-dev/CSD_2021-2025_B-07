@@ -71,5 +71,7 @@ CNN: Deep learning for feature extraction and accurate classification.
 📞 Contact
 
 If you have any questions, feel free to reach out:
+
 Vamsi Krishna Gopidesi
+
 Email: vamcyadav25@gmail.com
