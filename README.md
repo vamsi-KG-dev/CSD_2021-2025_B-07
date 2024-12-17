@@ -52,7 +52,7 @@ The **Smartphone Addiction Predictor** is a web app that helps identify if a per
 ├── README.md
 
 ---
-🧠 Insights
+## 🧠 Insights
 
 This project uses a combination of multiple models for better predictions:
 
@@ -68,7 +68,7 @@ CNN: Deep learning for feature extraction and accurate classification.
 
 ---
 
-📞 Contact
+## 📞 Contact
 
 If you have any questions, feel free to reach out:
 
